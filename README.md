@@ -6,7 +6,7 @@ I hope this message finds you well.
 **System Used:**\
 OS Windows 11.\\
 Java Jdk version 25.\\
-Eclipse.
+IDE used: Eclipse and IntelliJ.
 
 __Step 1:__ change the package name from e_save to your own designated package.\
 __Step 2:__ for showing the clear code outputs it is needed to open the java files from the main java class. If the desired outcome is to see the Gui interface then follow Step 3:\
